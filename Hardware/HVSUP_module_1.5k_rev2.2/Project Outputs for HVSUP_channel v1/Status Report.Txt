@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [HVSUP_channel_LLC_rev2.1.PcbDoc]
+   Generated File[Pick Place for HVSUP_channel_LLC_rev2.1.txt]
+   Generated File[Pick Place for HVSUP_channel_LLC_rev2.1.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 10:43:40 On 08.08.2017

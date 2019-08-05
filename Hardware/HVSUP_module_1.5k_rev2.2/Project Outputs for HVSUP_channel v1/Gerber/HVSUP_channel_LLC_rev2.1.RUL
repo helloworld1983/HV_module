@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\Michal\Desktop\Projekty\HV supply\HVSUP_module_1.5k_rev2.2\HVSUP_channel_LLC_rev2.1.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance_poly|Scope=Board|Minimum=12.00

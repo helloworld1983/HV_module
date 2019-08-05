@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=HVSUP_channel.SchDoc
+Record=SheetSymbol|SourceDocument=HVSUP_channel.SchDoc|Designator=U_Channel_supply|SchDesignator=U_Channel_supply|FileName=Channel_supply.SchDoc|SymbolType=Normal|RawFileName=Channel_supply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=HVSUP_channel.SchDoc|Designator=U_HV_gen|SchDesignator=U_HV_gen|FileName=HV_gen_rev2.SchDoc|SymbolType=Normal|RawFileName=HV_gen_rev2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=HVSUP_channel.SchDoc|Designator=U_UPC|SchDesignator=U_UPC|FileName=UPC.SchDoc|SymbolType=Normal|RawFileName=UPC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
